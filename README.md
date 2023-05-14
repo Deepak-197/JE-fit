@@ -19,7 +19,7 @@ Jefit_Clone - An online store for personal trainers and training guides, jefit.c
 <h5>✨Cart page</h5>
 <h5>✨Add address details and make payment </h5>
 
-
+---
 This Group Executed By 5 team Member.
 
 Team is Lead <a href="https://github.com/sudip40">Sudip Karmakar</a>
@@ -27,7 +27,8 @@ Team is Lead <a href="https://github.com/sudip40">Sudip Karmakar</a>
    <li> <a href="https://github.com/Deepak-197">Deepak Soni</a> </li>
    <li> <a href="https://github.com/nsalunkhe">Niranjan Salunkhe</a> </li>
    <li> <a href="https://github.com/globalmamtamishra">Mamta Mishra</a> </li>
-  
+   
+  ---
   ![image](https://github.com/Deepak-197/JE-fit/assets/104504771/f91de3c9-eddf-4577-800f-7a5a8457ab7c)
 
   ![image](https://github.com/Deepak-197/JE-fit/assets/104504771/7b131128-9773-494d-8b4c-730bada13efa)
