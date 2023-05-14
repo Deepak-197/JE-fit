@@ -1,8 +1,23 @@
-# Jefit - Clone
+<h3>Description :</h3>
 Jefit_Clone - An online store for personal trainers and training guides, jefit.com, offers a wide variety of exercise categories that target particular muscle regions. <br/>
         Plan, track, and log your workouts in the #1 mobile fitness app. Choose from hundreds of professionally built workout plans and reach your goals quicker.
 
-<h4>Tech Stack:</h4><h6>HTML, CSS, JavaScript</h6>
+---
+<h3>Tech Stack Used :</h3>
+<h5>⚡Fetch</h5>
+<h5>⚡JavaScript</h5>
+<h5>⚡HTML</h5>
+<h5>⚡CSS</h5>
+
+---
+
+<h3>Features :</h3>
+<h5>✨Home Page with Navbar and Footer</h5>
+<h5>✨Authentication</h5>
+<h5>✨Guidelines For Workout</h5>
+<h5>✨Single Workout Page</h5>
+<h5>✨Cart page</h5>
+<h5>✨Add address details and make payment </h5>
 
 
 This Group Executed By 5 team Member.
