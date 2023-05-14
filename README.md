@@ -1,5 +1,5 @@
 # Jefit - Clone
-Jefit_Clone - An online store for personal trainers and training guides, jefit.com, offers a wide variety of exercise categories that target particular muscle regions.
+Jefit_Clone - An online store for personal trainers and training guides, jefit.com, offers a wide variety of exercise categories that target particular muscle regions. <br/>
         Plan, track, and log your workouts in the #1 mobile fitness app. Choose from hundreds of professionally built workout plans and reach your goals quicker.
 
 This Group Executed By 5 team Member.
